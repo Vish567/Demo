@@ -3,4 +3,6 @@
 HTML-Hyper text markup language.
 
 It is used to create webpage.It consist series of text.
-HTML tells about elements to browser
+HTML tells about elements to browser.
+Paragraph<p>
+Heading<h1> to <h6>
